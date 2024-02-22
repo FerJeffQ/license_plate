@@ -3,7 +3,7 @@ from PIL import Image
 import easyocr 
 import numpy as np
 import os
-from skimage import io, color, filters, transform
+
 
 # obtener path actual
 path = os.getcwd()
