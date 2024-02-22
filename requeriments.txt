@@ -3,3 +3,4 @@ matplotlib
 Pillow
 easyocr
 numpy
+opencv-python
